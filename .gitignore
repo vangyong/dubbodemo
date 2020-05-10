@@ -1,0 +1,6 @@
+.project
+*.project
+.settings/
+.settings/*
+*.settings/
+*.settings/*
